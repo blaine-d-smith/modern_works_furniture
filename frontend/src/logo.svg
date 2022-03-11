@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="3.7048423"
+     inkscape:cx="187.32241"
+     inkscape:cy="135.76826"
+     inkscape:window-width="1708"
+     inkscape:window-height="1194"
+     inkscape:window-x="852"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid19800" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="BG">
+    <rect
+       id="rect19987"
+       width="28"
+       height="28"
+       x="34.177082"
+       y="27.78125"
+       style="fill:#ffffff;stroke-width:0.243478"
+       inkscape:export-filename="/Users/D3X_Designs/Desktop/Modern Works Furniture Store/favicon.png"
+       inkscape:export-xdpi="453.57001"
+       inkscape:export-ydpi="453.57001" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g19963"
+       transform="matrix(1.0770067,0,0,1.0770067,-10.062959,1.9501923)"
+       inkscape:export-filename="/Users/D3X_Designs/Desktop/Modern Works Furniture Store/favicon.png"
+       inkscape:export-xdpi="453.57001"
+       inkscape:export-ydpi="453.57001">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="41.951015"
+         y="41.043964"
+         id="text99"
+         inkscape:export-filename="/Users/D3X_Designs/Desktop/logo.png"
+         inkscape:export-xdpi="547.12"
+         inkscape:export-ydpi="547.12"><tspan
+           sodipodi:role="line"
+           id="tspan97"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Augor;-inkscape-font-specification:Augor;stroke-width:0.264583"
+           x="41.951015"
+           y="41.043964">M W</tspan></text>
+      <rect
+         id="rect14114"
+         width="0.76223868"
+         height="10.290222"
+         x="52.493999"
+         y="31.837999"
+         style="stroke-width:0.264583"
+         inkscape:export-filename="/Users/D3X_Designs/Desktop/logo.png"
+         inkscape:export-xdpi="547.12"
+         inkscape:export-ydpi="547.12" />
+    </g>
+  </g>
+</svg>

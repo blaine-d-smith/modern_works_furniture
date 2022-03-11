@@ -1,0 +1,36 @@
+### Environments ###
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.idea
+.cache
+.bin
+.vscode
+vscode/
+
+### Dependencies ###
+**/node_modules
+/node_modules
+node_modules/
+/.pnp
+.pnp.js
+
+### Django ###
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+db.sqliteclea3
+db.sqlite3-journal
+staticfiles/admin/css
+staticfiles/rest_framework/css
+staticfiles/rest_framework/docs/css
+
+### MISC ###
+.DS_Store
