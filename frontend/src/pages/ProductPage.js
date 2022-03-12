@@ -130,13 +130,13 @@ function ProductPage({ }) {
                                         {product.reviews.map((review) => (
                                             <ListGroup.Item key={review._id}>
                                                 <Row className='review-container'>
-                                                    <Col md={2}>
+                                                    <Col md={2} className='review-col'>
                                                         <div className='review-inner-container name-location-container'>
                                                             <span className='review-name'>{review.name}</span>
                                                             <span className='review-location'>{review.city}, {review.state}</span>
                                                         </div>
                                                     </Col>
-                                                    <Col md={10}>
+                                                    <Col md={10} className='review-col'>
                                                         <div className='review-inner-container'>
                                                             <span className='review-rating'><Rating value={review.rating} color='#f8e825' /></span>
                                                             <span className='review-date'>{review.dateCreated.substring(0, 10)}</span>

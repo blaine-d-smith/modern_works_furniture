@@ -407,8 +407,7 @@ header {
   color: #1e2022 !important;
 }
 .navbar-toggler-icon {
-  background-image: url("data:image/svg+xml;
-  charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3E%3Cpath stroke='rgba(0, 0, 0, 1)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+  background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3E%3Cpath stroke='rgba(0, 0, 0, 1)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
 }
 .menu-dark {
   background-color: #fff;
@@ -826,7 +825,7 @@ button.btn {
   line-height: 14px;
   margin-bottom: 6px;
   outline: none;
-  padding: 12px 18px;
+  padding: 12px 14px;
   position: relative;
   text-decoration: none;
   text-transform: uppercase;
@@ -1184,6 +1183,10 @@ form label {
   font-weight: 500;
   margin-bottom: 0.5rem;
 }
+.form-group {
+  margin-bottom: 1em;
+}
+
 .form-control {
   -webkit-appearance: none;
   appearance: none;
@@ -1228,8 +1231,7 @@ form label {
   -webkit-appearance: none;
   appearance: none;
   background-color: #fff;
-  background-image: url("data:image/svg+xml;
-  charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath fill='none' stroke='%232e2e2e' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='m2 5 6 6 6-6'/%3E%3C/svg%3E");
+  background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath fill='none' stroke='%232e2e2e' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='m2 5 6 6 6-6'/%3E%3C/svg%3E");
   background-position: right 1rem center;
   background-repeat: no-repeat;
   background-size: 16px 12px;
@@ -1286,12 +1288,12 @@ form label {
   border-color: #2250fc;
 }
 .form-check-input:checked[type="radio"] {
-  background-image: url("data:image/svg+xml;
-  charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='-4 -4 8 8'%3E%3Ccircle r='2' fill='%23fff'/%3E%3C/svg%3E");
+  background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='-4 -4 8 8'%3E%3Ccircle r='2' fill='%23fff'/%3E%3C/svg%3E");
 }
 .form-check-label {
   cursor: pointer;
 }
+
 /*** PAGE ELEMENTS ***/
 .alert-cart-empty {
   color: #1e2022 !important;
@@ -2154,6 +2156,10 @@ label {
     width: 100%;
   }
   .cart-items.list-group-items {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .review-container .review-col {
     padding-left: 0;
     padding-right: 0;
   }
